@@ -1,10 +1,10 @@
 ---
-title: "INFO5992 IT Innovation"
+title: "HTIN5005 Applied Healthcare Data Science"
 collection: teaching
 type: "Postgraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2015-spring-teaching-1
 venue: "University of Sydney, School of Computer Science"
-date: 2024-02-24
+date: 2024-07-20
 location: "Sydney, Australia"
 ---
 
