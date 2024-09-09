@@ -12,7 +12,7 @@ title                    : "Zhuyi(Emma) Lu"
 title_separator          : "-"
 name                     : &name "Zhuyi(Emma) Lu"
 description              : &description "Researcher & Developer"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://emmalu-research.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
